@@ -1,0 +1,13 @@
+D:\repos\hello-world2021\bin\Debug\netcoreapp3.1\hello-world2021.exe
+D:\repos\hello-world2021\bin\Debug\netcoreapp3.1\hello-world2021.deps.json
+D:\repos\hello-world2021\bin\Debug\netcoreapp3.1\hello-world2021.runtimeconfig.json
+D:\repos\hello-world2021\bin\Debug\netcoreapp3.1\hello-world2021.runtimeconfig.dev.json
+D:\repos\hello-world2021\bin\Debug\netcoreapp3.1\hello-world2021.dll
+D:\repos\hello-world2021\bin\Debug\netcoreapp3.1\hello-world2021.pdb
+D:\repos\hello-world2021\obj\Debug\netcoreapp3.1\hello-world2021.csprojAssemblyReference.cache
+D:\repos\hello-world2021\obj\Debug\netcoreapp3.1\hello-world2021.AssemblyInfoInputs.cache
+D:\repos\hello-world2021\obj\Debug\netcoreapp3.1\hello-world2021.AssemblyInfo.cs
+D:\repos\hello-world2021\obj\Debug\netcoreapp3.1\hello-world2021.csproj.CoreCompileInputs.cache
+D:\repos\hello-world2021\obj\Debug\netcoreapp3.1\hello-world2021.dll
+D:\repos\hello-world2021\obj\Debug\netcoreapp3.1\hello-world2021.pdb
+D:\repos\hello-world2021\obj\Debug\netcoreapp3.1\hello-world2021.genruntimeconfig.cache
